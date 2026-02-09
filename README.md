@@ -53,7 +53,7 @@ Currently, I am an **Intern at Bodyline (MAS Holdings)**, where I focus on Digit
 - **Location:** Horana / Colombo, Sri Lanka 🇱🇰
 - **Email:** [nipunsnm@gmail.com](mailto:nipunsnm@gmail.com)
 - **WhatsApp:** [+94 76 410 5447](https://wa.me/94764105447)
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/nipun-sanchitha)
+- **LinkedIn:** [linkedin.com/in/nipun-sanchitha](https://www.linkedin.com/in/nipun-sanchitha)
 
 ---
 *"Securing infrastructure, automating processes, and communicating impact."*
