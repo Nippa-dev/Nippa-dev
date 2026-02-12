@@ -4,8 +4,6 @@
 
 I am a **BSc (Hons) Computer Security** graduate from the **University of Plymouth (via NSBM)** with a Second Class Honours. My background blends technical rigor in networking and security with practical experience in digital communication and automation. 
 
-Currently, I am an **Intern at Bodyline (MAS Holdings)**, where I focus on Digital Communication and HR Data Analytics, bridging the gap between IT infrastructure and business efficiency.
-
 ---
 
 ### 🚀 Technical Expertise
@@ -20,26 +18,9 @@ Currently, I am an **Intern at Bodyline (MAS Holdings)**, where I focus on Digit
 
 ---
 
-### 📂 Highlighted Projects
-
-* **LKTunnel:** A Flutter-based VPN application for secure tunneling.
-* **Enterprise Automation Suite:** Developed during 2025 to streamline corporate workflows.
-* **IoT Smart Greenhouse:** A 2024 project building a Smart Mushroom Greenhouse using IoT sensors.
-* **AppointMe:** A digital salon booking system designed for local businesses.
-* **Aurelia & Co:** Currently developing a high-end web presence for an event planning company.
-
----
-
 ### 🛡️ Cybersecurity Achievements
 * **Advent of Cyber 2025:** Successfully completed the full challenge on TryHackMe.
 * **Networking Specialist:** Specialized in Software Defined Networking (SDN) and Enterprise Security.
-
----
-
-### 🌟 Beyond the Code
-* **Toastmasters:** Active Guest Member at **Horana Toastmasters Club** — I love working on my communication and leadership skills.
-* **Fitness:** A dedicated gym enthusiast. I believe a strong body fuels a sharp mind.
-* **Creative:** Passionate about photography and digital content creation (flyers/social media).
 
 ---
 
@@ -50,10 +31,7 @@ Currently, I am an **Intern at Bodyline (MAS Holdings)**, where I focus on Digit
 ---
 
 ### 📫 Let's Connect!
-- **Location:** Horana / Colombo, Sri Lanka 🇱🇰
 - **Email:** [nipunsnm@gmail.com](mailto:nipunsnm@gmail.com)
-- **WhatsApp:** [+94 76 410 5447](https://wa.me/94764105447)
-- **LinkedIn:** [linkedin.com/in/nipun-sanchitha](https://www.linkedin.com/in/nipun-sanchitha)
 
 ---
 *"Securing infrastructure, automating processes, and communicating impact."*
