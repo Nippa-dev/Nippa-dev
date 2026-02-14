@@ -22,11 +22,6 @@ I am a **BSc (Hons) Computer Security** graduate from the **University of Plymou
 * **Advent of Cyber 2025:** Successfully completed the full challenge on TryHackMe.
 * **Networking Specialist:** Specialized in Software Defined Networking (SDN) and Enterprise Security.
 
----
-
-### 📊 GitHub Activity
-![Nipun's Stats](https://github-readme-stats.vercel.app/api?username=Nippa-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nippa-dev&layout=compact&theme=tokyonight)
 
 ---
 
