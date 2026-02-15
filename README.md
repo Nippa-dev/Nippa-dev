@@ -16,11 +16,6 @@ I am a **BSc (Hons) Computer Security** graduate from the **University of Plymou
 | **Development** | Flutter, React, Full-Stack Web Development, Python, JavaScript |
 | **Data & Automation** | HR Data Analytics, Enterprise Process Automation, Power BI |
 
----
-
-### 🛡️ Cybersecurity Achievements
-* **Advent of Cyber 2025:** Successfully completed the full challenge on TryHackMe.
-* **Networking Specialist:** Specialized in Software Defined Networking (SDN) and Enterprise Security.
 
 
 ---
